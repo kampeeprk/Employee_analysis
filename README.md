@@ -12,7 +12,7 @@ Analyse employees data to answer 4 business task requirement
 
 ### Tools
 - MySQL for data analysis - [SQL scripts](https://github.com/stlionnn/Employee_analysis/blob/main/Employees_SQLQuery.sql)
-- Tableau Public for data visualisation - [dashboard](https://public.tableau.com/app/profile/kampee.peerakhum/viz/Employees_analysis_dashboard/Dashboard1#1)
+- Tableau Public for data visualisation - [Dashboard](https://public.tableau.com/app/profile/kampee.peerakhum/viz/Employees_analysis_dashboard/Dashboard1#1)
 
 ### Dashboard
 ![image](https://github.com/stlionnn/Employee_analysis/assets/98281969/efa9a03f-9c46-40cc-94b6-f1a54c38e37a)
