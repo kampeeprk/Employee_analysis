@@ -11,7 +11,7 @@ Analyse employees data to answer 4 business task requirement
 - Employees data from [The Business Intelligence Analyst Course 2023](https://www.dropbox.com/s/3czfpe0njsq868q/employees_mod.sql?dl=0)
 
 ### Tools
-- MySQL for data analysis - [SQL scripts](https://public.tableau.com/app/profile/kampee.peerakhum/viz/Employees_analysis_dashboard/Dashboard1#1)
+- MySQL for data analysis - [SQL scripts](https://github.com/stlionnn/Employee_analysis/blob/main/Employees_SQLQuery.sql)
 - Tableau Public for data visualisation - [dashboard](https://public.tableau.com/app/profile/kampee.peerakhum/viz/Employees_analysis_dashboard/Dashboard1#1)
 
 ### Dashboard
