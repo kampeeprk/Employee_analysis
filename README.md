@@ -4,8 +4,8 @@
 Analyse employees data to answer 4 business task requirement 
 - A breakdown between male and female employees in the company each year, starting from 1990.
 - Compare the number of male and female managers from different departments each year, starting from 1990.
-- Compare the average salary of male and fenale employees in company.
-- Compare the average salary of male and fenale employees per department within the certain saraly range.
+- Compare the average salary of male and female employees in company.
+- Compare the average salary of male and female employees per department within the certain saraly range.
 
 ### Data Set 
 - Employees data from [The Business Intelligence Analyst Course 2023](https://www.dropbox.com/s/3czfpe0njsq868q/employees_mod.sql?dl=0)
